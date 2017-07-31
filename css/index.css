@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(43, 49, 55);
+}
+
+.container {
+  margin-top: 120px;
+}
+
+.pixel {
+  display: inline-block;
+  height: 20px;
+  margin: 2px 2px 0 2px;
+  width: 20px;
+  background-color: rgb(255, 255, 255);
+}
+
+.row {
+
+}
